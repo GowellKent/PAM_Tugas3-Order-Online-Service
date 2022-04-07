@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230364365560",
+    "project_id": "pam-tugas",
+    "storage_bucket": "pam-tugas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230364365560:android:74bbc422987c79f52d310d",
+        "android_client_info": {
+          "package_name": "com.kent.pam_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230364365560-531qfegei86tq5oor0bo48pjum6ken2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlkmV7ZHUt7a6bg9-GFM1Mi0nfXWKpTho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230364365560-531qfegei86tq5oor0bo48pjum6ken2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
